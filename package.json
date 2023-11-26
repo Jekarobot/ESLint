@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  },
+
+  "scripts": {
+    "lint": "eslint ."
+}
+}
+
+
